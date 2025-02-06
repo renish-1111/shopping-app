@@ -26,6 +26,7 @@ if(isset($_GET['action']) && $_GET['action']=="add"){
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+		
 		<!-- Meta -->
 		<meta charset="utf-8">
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
